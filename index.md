@@ -8,7 +8,7 @@ layout: default
 
 We are Stanford University's ensemble for music across the Middle East region, with a focus on Arabic, Turkish, and Persian music. We perform regularly both on and off campus.
 
-Our membership is open, and consists of undergrads, grad students, staff, faculty, as well as members of the broader community. All are welcome, regardless of background or prior experience.
+Our membership is open, and consists of undergrads, grad students, staff, and faculty, as well as members of the broader community. All are welcome, regardless of background or prior experience.
 
 We hold open rehearsals and drink tea every Wednesday night at 7:15pm on the Stanford campus. Join us!
 
