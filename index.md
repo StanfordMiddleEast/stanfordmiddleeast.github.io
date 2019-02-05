@@ -4,7 +4,7 @@ layout: default
 
 ![Branching](img/concert.jpg)
 
-### About Us
+
 
 We are Stanford University's ensemble for music across the Middle East region, with a focus on Arabic, Turkish, and Persian music. We perform regularly both on and off campus.
 
@@ -16,7 +16,7 @@ We hold open rehearsals and drink tea every Wednesday night at 7:15pm on the Sta
 
 ### Upcoming Appearances
 
-**Sunday, March 17, 2019:** Winter Show featuring Ali Paris. Show at 3pm, location to be announced.
+**Sunday, March 17, 2019**: Winter Show featuring Ali Paris. Show at 3pm, location to be announced.
 
 
 
