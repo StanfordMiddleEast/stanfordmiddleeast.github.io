@@ -2,3 +2,4 @@ theme: jekyll-theme-slate
 title: Stanford Middle East Ensemble
 description: A community ensemble for music from across the Middle East.
 show_downloads: false
+google_analytics: UA-134144171-1
