@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: stanford
 ---
 
 ![concert](img/concert.jpg)
