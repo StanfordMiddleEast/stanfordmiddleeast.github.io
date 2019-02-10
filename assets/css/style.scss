@@ -37,6 +37,7 @@ body {
 }
 
 #brandbar {
-    background-color: #8c1515;
-    color: #8c1515;
+    background: #8c1515;
+    box-shadow: inset 0 -4px 8px -2px rgba(0,0,0,.2);
+    min-height: 30px;
 }
