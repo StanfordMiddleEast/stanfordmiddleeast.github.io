@@ -6,8 +6,6 @@ layout: stanford
 
 # Stanford Middle East Ensemble
 
-### Welcome
-
 We are Stanford University's ensemble for music from across the Middle East region, with a focus on Arabic, Turkish, and Persian music. We perform regularly both on and off campus.
 
 Our membership is open, and consists of undergrads, grad students, staff, and faculty, as well as members of the broader community. All are welcome, regardless of background or prior experience.
