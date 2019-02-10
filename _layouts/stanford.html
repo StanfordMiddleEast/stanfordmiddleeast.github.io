@@ -31,9 +31,9 @@
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
-      <h1>{{ site.title | default: site.github.repository_name }}</h1>
-      <h2>{{ site.description | default: site.github.project_tagline }}</h2>        
       <section id="main_content" class="inner">
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <h2>{{ site.description | default: site.github.project_tagline }}</h2>        
         {{ content }}
       </section>
     </div>
