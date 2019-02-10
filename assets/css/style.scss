@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+a {
+    text-decoration: none;
+}
+
 .inner {
     position: relative;
     max-width: 800px;
@@ -36,8 +40,15 @@ body {
     color: #8c1515;
 }
 
-#brandbar {
+div.brandbar {
     background: #8c1515;
     box-shadow: inset 0 -4px 8px -2px rgba(0,0,0,.2);
     min-height: 30px;
+    height: 30px;
+}
+
+div.container {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 4px;
 }
