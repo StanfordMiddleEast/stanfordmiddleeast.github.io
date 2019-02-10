@@ -4,6 +4,7 @@ layout: stanford
 
 ![concert](img/concert.jpg)
 
+# Stanford Middle East Ensemble
 
 ### Welcome
 
