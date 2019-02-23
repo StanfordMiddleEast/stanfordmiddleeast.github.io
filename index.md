@@ -16,10 +16,12 @@ We hold open rehearsals and drink tea every Wednesday night during term time on 
 
 ### Upcoming Appearances
 
-**Sunday, March 17, 2019**: Winter Show featuring [Ali Paris](https://www.youtube.com/channel/UC2BkgM7L7WoizzexIZ1xxtw). Show at 3pm, location TBA.
+**Saturday, March 9, 2019:** [Stanford MENA Forum Cultural night](https://www.stanfordmenaforum.com/), 6-8pm at Stanford Graduate School of Business. Tickets [here](https://www.eventbrite.com/e/stanford-mena-forum-tickets-54932276919).
+
+**Sunday, March 17, 2019:** Winter Show featuring [Ali Paris](https://www.youtube.com/channel/UC2BkgM7L7WoizzexIZ1xxtw). 3pm in Toyon Hall. Free and open to the public!
 
 ### Contact
 
-If you are interested in hiring the ensemble for an appearance, joining the ensemble, or simply keeping in touch with our activities, get in touch!
+If you are interested in hiring the ensemble for an appearance, joining the ensemble, or simply following our activities, get in touch!
 - Like us on [Facebook](https://facebook.com/StanfordMEE)
 - Send us an email: stanford.middle.east.ensemble@gmail.com
