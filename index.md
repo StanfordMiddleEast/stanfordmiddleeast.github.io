@@ -16,7 +16,7 @@ We hold open rehearsals and drink tea every Wednesday night during term time on 
 
 ### Upcoming Appearances
 
-**Sunday, March 17, 2019:** Winter Show featuring [Ali Paris](https://www.youtube.com/channel/UC2BkgM7L7WoizzexIZ1xxtw). 3pm in Toyon Hall. Free and open to the public!
+**Sunday, March 17, 2019:** [Winter Show](https://www.facebook.com/events/354146112102607/) featuring [Ali Paris](https://www.youtube.com/channel/UC2BkgM7L7WoizzexIZ1xxtw). 3pm in Toyon Hall. Free and open to the public!
 
 ### Contact
 
