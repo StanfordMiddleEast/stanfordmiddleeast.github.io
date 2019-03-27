@@ -16,7 +16,7 @@ We hold open rehearsals and drink tea every Wednesday night during term time on 
 
 ### Upcoming Appearances
 
-**Saturday, April 6, 2019:** [Refugee Benefit Concert](https://www.facebook.com/events/1014926251964675/)
+**Saturday, April 6, 2019:** [Refugee Benefit Concert](https://www.facebook.com/events/1014926251964675/), 7pm in Memorial Church. [Tickets](https://bit.ly/refugeebc19) are $7, with all proceeds going to the International Rescue Committee.
 
 **Saturday, May 25, 2019:** [Spring Concert](https://www.facebook.com/events/424076941696550/) featuring guest artist Basma Edrees, 9:00pm. Stay tuned for more details!
 
