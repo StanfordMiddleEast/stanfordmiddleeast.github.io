@@ -16,9 +16,7 @@ We hold open rehearsals and drink tea every Wednesday night during term time on 
 
 ### Upcoming Appearances
 
-**Saturday, May 25, 2019:** [Spring Concert](https://www.facebook.com/events/424076941696550/) featuring guest artist Basma Edrees, 9:00pm. Location: CCRMA Stage, 660 Lomita Drive, Stanford, CA ([directions](https://ccrma.stanford.edu/about/directions)).
-
-**Tuesday, June 4, 2019:** Eid Celebration Festival at White Plaza, Stanford. Free food! Time to be announced.
+We are officially on break during the summer, but available for small gigs. Please reach out (below)!
 
 ### Contact
 
