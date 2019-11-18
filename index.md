@@ -16,7 +16,20 @@ We hold open rehearsals and drink tea every Wednesday night during term time on 
 
 ### Upcoming Appearances
 
-We are officially on break during the summer, but available for small gigs. Please reach out (below)!
+Thursday Nov 21 (the week before Thanksgiving), 7:30pm,
+[CCRMA](https://ccrma.stanford.edu/about/directions) Stage.
+
+Saturday March 14 (the Saturday just before finals), 7:30pm,
+[Dinkelspiel
+Auditorium](https://music.stanford.edu/venues/dinkelspiel),
+dance-themed program.
+
+Sunday May 24 (Memorial Day weekend and also Eid al-Fitr), late
+afternoon performance, the Nitery Theater, emphasizing Turkish music
+featuring our guest artist [Necati
+Çelik](http://www.necaticelik.com.tr/en/biyografi).
+
+We are also available for small gigs. Please reach out (below)!
 
 ### Contact
 
