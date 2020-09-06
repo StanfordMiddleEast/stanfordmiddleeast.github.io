@@ -11,12 +11,10 @@ We are Stanford University's ensemble for music from across the Middle East regi
 
 Our membership is open and consists of undergrads, grad students, staff, and faculty, as well as members of the broader community. All are welcome, regardless of background or prior experience.
 
-We hold weekly open rehearsals and drink tea together during term time on the Stanford campus. Join us!
 
+### Activities
 
-### Upcoming Appearances
-
-We are on break during the summer, and awaiting word from the Stanford administration about allowable activites in the fall. That said, please be in touch (below) if you're interested in our group!
+We typically hold weekly open rehearsals and drink tea together during term time on the Stanford campus. For the time being, we are not holding in-person events, and we periodically hold remote rehearsals and get-togethers. Please be in touch (below) if you're interested in our group!
 
 ### Contact
 
